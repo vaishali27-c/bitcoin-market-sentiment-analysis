@@ -122,49 +122,6 @@ The analysis includes:
 
 ---
 
-## 📁 Repository Structure
 
-```
-bitcoin-market-sentiment-analysis/
-│
-├── Bitcoin_Market_Sentiment_Analysis.ipynb
-├── README.md
-├── requirements.txt
-└── images/
-```
 
----
 
-## 🚀 Future Improvements
-
-- Build predictive machine learning models for trade profitability.
-- Perform statistical significance testing across sentiment categories.
-- Develop an interactive dashboard using Streamlit or Power BI.
-- Integrate real-time Bitcoin sentiment data using APIs.
-
----
-
-## 📷 Sample Visualizations
-
-- Trade Distribution by Market Sentiment
-- Average Closed PnL Analysis
-- Win Rate Comparison
-- Correlation Heatmap
-- Daily Trading Activity
-- Top Performing Coins
-
-*(Graphs are available in the Jupyter Notebook.)*
-
----
-
-## 👩‍💻 Author
-
-**Vaishali Chatnalkar**
-
-Final Year B.Tech (Computer Engineering)
-
-Passionate about **Data Science**, **Machine Learning**, **Artificial Intelligence**, and **Data Analytics**.
-
----
-
-## ⭐ If you found this project interesting, consider giving it a star!
